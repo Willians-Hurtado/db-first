@@ -4,15 +4,16 @@
 
 ## Table Columns
 
-- Make
-- Model
-- Trim / Version
-- Body Type
-- Fuel Type
-- Year
-- Mileage
-- Power (kW)
-- Transmission
-- Number of Doors
-- Number of Seats
-- Color
+- Make (VARCHAR)
+- Model (VARCHAR)
+- Trim / Version (VARCHAR)
+- Body Type (VARCHAR)
+- Fuel Type (VARCHAR)
+- Year (YEAR)
+- Mileage (VARCHAR)
+- Power (kW) (VARCHAR)
+- Transmission (VARCHAR)
+- Number of Doors (VARCHAR)
+- Number of Seats (VARCHAR)
+- Color (VARCHAR)
+- Measurement (VARCHAR)
